@@ -26,7 +26,7 @@ inputs:
     description: "Message for committing files to repository."
     required: false
   githubUrl:
-    description: "URL for GitHub Enterprise. Default: `github.com`"
+    description: "Custom URL for GitHub Enterprise instances. Default: `github.com`"
     required: false
 
 runs:
